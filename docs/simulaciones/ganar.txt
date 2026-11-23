@@ -1,0 +1,393 @@
+=== La Cripta del Dragon de Ceniza ===
+Un nigromante desperto a un dragon que incendio tu aldea. Los dos se ocultan en la Cripta de Ceniza. Tu mision: bajar, vencer al dragon y acabar con el nigromante.
+Como te llamas, aventurero?
+=== Entrada de la Cripta ===
+Una puerta de piedra rota da paso a un vestibulo frio. Antorchas casi apagadas iluminan el camino hacia el norte.
+Enemigos: ninguno.
+Objetos en el suelo: Pocion de Vida
+Salidas: norte
+
+Entrada de la Cripta | Nivel: 1 | Vida: 120/120
+1. Mirar alrededor
+2. Moverse
+3. Recoger un objeto
+4. Ver inventario / usar un objeto
+5. Ver estado del jugador
+0. Salir del juego
+Elige una opcion:
+1. Pocion de Vida - Restaura 40 puntos de vida.
+0. Cancelar
+Elige una opcion:
+Recoges Pocion de Vida.
+
+Entrada de la Cripta | Nivel: 1 | Vida: 120/120
+1. Mirar alrededor
+2. Moverse
+3. Recoger un objeto
+4. Ver inventario / usar un objeto
+5. Ver estado del jugador
+0. Salir del juego
+Elige una opcion:
+1. norte -> Salon de Guardia
+0. Cancelar
+Elige una opcion:
+=== Salon de Guardia ===
+Un salon amplio con bancos volcados. Huele a humo y a hierro oxidado.
+Enemigos: Gruk (Orco, vida 36/36)
+Objetos en el suelo: ninguno.
+Salidas: este, norte, sur
+
+--- COMBATE ---
+Heroe (nivel 1): 120/120
+1. Gruk (Orco) vida 36/36
+1. Atacar
+2. Usar un objeto
+Elige una opcion:
+Heroe ataca a Gruk con 12 de dano.
+Gruk queda con 24/36 de vida.
+El orco Gruk golpea con su maza a Heroe (7 de dano).
+Heroe queda con 113/120 de vida.
+
+--- COMBATE ---
+Heroe (nivel 1): 113/120
+1. Gruk (Orco) vida 24/36
+1. Atacar
+2. Usar un objeto
+Elige una opcion:
+Heroe ataca a Gruk con 12 de dano.
+Gruk queda con 12/36 de vida.
+El orco Gruk entra en furia y golpea a Heroe (10 de dano).
+Heroe queda con 103/120 de vida.
+
+--- COMBATE ---
+Heroe (nivel 1): 103/120
+1. Gruk (Orco) vida 12/36
+1. Atacar
+2. Usar un objeto
+Elige una opcion:
+Heroe ataca a Gruk con 12 de dano.
+Gruk queda con 0/36 de vida.
+Gruk ha sido derrotado.
+Heroe gana 20 puntos de experiencia.
+Has derrotado a todos los enemigos.
+
+Salon de Guardia | Nivel: 1 | Vida: 103/120
+1. Mirar alrededor
+2. Moverse
+3. Recoger un objeto
+4. Ver inventario / usar un objeto
+5. Ver estado del jugador
+0. Salir del juego
+Elige una opcion:
+1. este -> Armeria
+2. norte -> Cripta Profunda
+3. sur -> Entrada de la Cripta
+0. Cancelar
+Elige una opcion:
+=== Armeria ===
+Estantes caidos y armaduras oxidadas. Algo brilla bajo una mesa.
+Enemigos: ninguno.
+Objetos en el suelo: Espada de Hierro, Pocion de Vida
+Salidas: oeste
+
+Armeria | Nivel: 1 | Vida: 103/120
+1. Mirar alrededor
+2. Moverse
+3. Recoger un objeto
+4. Ver inventario / usar un objeto
+5. Ver estado del jugador
+0. Salir del juego
+Elige una opcion:
+1. Espada de Hierro - Aumenta tu ataque en 6 puntos.
+2. Pocion de Vida - Restaura 40 puntos de vida.
+0. Cancelar
+Elige una opcion:
+Recoges Espada de Hierro.
+
+Armeria | Nivel: 1 | Vida: 103/120
+1. Mirar alrededor
+2. Moverse
+3. Recoger un objeto
+4. Ver inventario / usar un objeto
+5. Ver estado del jugador
+0. Salir del juego
+Elige una opcion:
+1. Pocion de Vida - Restaura 40 puntos de vida.
+0. Cancelar
+Elige una opcion:
+Recoges Pocion de Vida.
+
+Armeria | Nivel: 1 | Vida: 103/120
+1. Mirar alrededor
+2. Moverse
+3. Recoger un objeto
+4. Ver inventario / usar un objeto
+5. Ver estado del jugador
+0. Salir del juego
+Elige una opcion:
+1. Pocion de Vida - Restaura 40 puntos de vida.
+2. Espada de Hierro - Aumenta tu ataque en 6 puntos.
+3. Pocion de Vida - Restaura 40 puntos de vida.
+0. Volver
+Elige una opcion:
+Heroe equipa Espada de Hierro. Ataque total: 18.
+
+Armeria | Nivel: 1 | Vida: 103/120
+1. Mirar alrededor
+2. Moverse
+3. Recoger un objeto
+4. Ver inventario / usar un objeto
+5. Ver estado del jugador
+0. Salir del juego
+Elige una opcion:
+1. oeste -> Salon de Guardia
+0. Cancelar
+Elige una opcion:
+=== Salon de Guardia ===
+Un salon amplio con bancos volcados. Huele a humo y a hierro oxidado.
+Enemigos: ninguno.
+Objetos en el suelo: ninguno.
+Salidas: este, norte, sur
+
+Salon de Guardia | Nivel: 1 | Vida: 103/120
+1. Mirar alrededor
+2. Moverse
+3. Recoger un objeto
+4. Ver inventario / usar un objeto
+5. Ver estado del jugador
+0. Salir del juego
+Elige una opcion:
+1. este -> Armeria
+2. norte -> Cripta Profunda
+3. sur -> Entrada de la Cripta
+0. Cancelar
+Elige una opcion:
+=== Cripta Profunda ===
+Sarcofagos abiertos y un frio que cala los huesos. Dos sombras se mueven entre las tumbas.
+Enemigos: Brak (Orco, vida 36/36), Zug (Orco, vida 36/36)
+Objetos en el suelo: Pocion de Vida
+Salidas: norte, sur
+
+--- COMBATE ---
+Heroe (nivel 1): 103/120
+1. Brak (Orco) vida 36/36
+2. Zug (Orco) vida 36/36
+1. Atacar
+2. Usar un objeto
+Elige una opcion:
+A quien atacas?
+1. Brak (Orco) vida 36/36
+2. Zug (Orco) vida 36/36
+Elige una opcion:
+Heroe ataca a Brak con 18 de dano.
+Brak queda con 18/36 de vida.
+El orco Brak golpea con su maza a Heroe (7 de dano).
+Heroe queda con 96/120 de vida.
+El orco Zug golpea con su maza a Heroe (7 de dano).
+Heroe queda con 89/120 de vida.
+
+--- COMBATE ---
+Heroe (nivel 1): 89/120
+1. Brak (Orco) vida 18/36
+2. Zug (Orco) vida 36/36
+1. Atacar
+2. Usar un objeto
+Elige una opcion:
+A quien atacas?
+1. Brak (Orco) vida 18/36
+2. Zug (Orco) vida 36/36
+Elige una opcion:
+Heroe ataca a Brak con 18 de dano.
+Brak queda con 0/36 de vida.
+Brak ha sido derrotado.
+Heroe gana 20 puntos de experiencia.
+El orco Zug golpea con su maza a Heroe (7 de dano).
+Heroe queda con 82/120 de vida.
+
+--- COMBATE ---
+Heroe (nivel 1): 82/120
+1. Zug (Orco) vida 36/36
+1. Atacar
+2. Usar un objeto
+Elige una opcion:
+Heroe ataca a Zug con 18 de dano.
+Zug queda con 18/36 de vida.
+El orco Zug golpea con su maza a Heroe (7 de dano).
+Heroe queda con 75/120 de vida.
+
+--- COMBATE ---
+Heroe (nivel 1): 75/120
+1. Zug (Orco) vida 18/36
+1. Atacar
+2. Usar un objeto
+Elige una opcion:
+Heroe ataca a Zug con 18 de dano.
+Zug queda con 0/36 de vida.
+Zug ha sido derrotado.
+Heroe gana 20 puntos de experiencia.
+!Heroe sube al nivel 2! Vida maxima: 140, ataque base: 15.
+Has derrotado a todos los enemigos.
+
+Cripta Profunda | Nivel: 2 | Vida: 95/140
+1. Mirar alrededor
+2. Moverse
+3. Recoger un objeto
+4. Ver inventario / usar un objeto
+5. Ver estado del jugador
+0. Salir del juego
+Elige una opcion:
+1. Pocion de Vida - Restaura 40 puntos de vida.
+0. Cancelar
+Elige una opcion:
+Recoges Pocion de Vida.
+
+Cripta Profunda | Nivel: 2 | Vida: 95/140
+1. Mirar alrededor
+2. Moverse
+3. Recoger un objeto
+4. Ver inventario / usar un objeto
+5. Ver estado del jugador
+0. Salir del juego
+Elige una opcion:
+1. norte -> Camara del Dragon
+2. sur -> Salon de Guardia
+0. Cancelar
+Elige una opcion:
+=== Camara del Dragon ===
+Una enorme caverna cubierta de ceniza. Sobre una montana de monedas, un dragon abre un ojo.
+Enemigos: Cenizo (Dragon, vida 80/80)
+Objetos en el suelo: Pocion de Vida
+Salidas: norte, sur
+
+--- COMBATE ---
+Heroe (nivel 2): 95/140
+1. Cenizo (Dragon) vida 80/80
+1. Atacar
+2. Usar un objeto
+Elige una opcion:
+Heroe ataca a Cenizo con 21 de dano.
+Cenizo queda con 59/80 de vida.
+El dragon Cenizo muerde a Heroe (12 de dano).
+Heroe queda con 83/140 de vida.
+
+--- COMBATE ---
+Heroe (nivel 2): 83/140
+1. Cenizo (Dragon) vida 59/80
+1. Atacar
+2. Usar un objeto
+Elige una opcion:
+Heroe ataca a Cenizo con 21 de dano.
+Cenizo queda con 38/80 de vida.
+El dragon Cenizo muerde a Heroe (12 de dano).
+Heroe queda con 71/140 de vida.
+
+--- COMBATE ---
+Heroe (nivel 2): 71/140
+1. Cenizo (Dragon) vida 38/80
+1. Atacar
+2. Usar un objeto
+Elige una opcion:
+Heroe ataca a Cenizo con 21 de dano.
+Cenizo queda con 17/80 de vida.
+!El dragon Cenizo escupe su aliento de fuego sobre Heroe (20 de dano)!
+Heroe queda con 51/140 de vida.
+
+--- COMBATE ---
+Heroe (nivel 2): 51/140
+1. Cenizo (Dragon) vida 17/80
+1. Atacar
+2. Usar un objeto
+Elige una opcion:
+Heroe ataca a Cenizo con 21 de dano.
+Cenizo queda con 0/80 de vida.
+Cenizo ha sido derrotado.
+Heroe gana 60 puntos de experiencia.
+!Heroe sube al nivel 3! Vida maxima: 160, ataque base: 18.
+Has derrotado a todos los enemigos.
+
+Camara del Dragon | Nivel: 3 | Vida: 71/160
+1. Mirar alrededor
+2. Moverse
+3. Recoger un objeto
+4. Ver inventario / usar un objeto
+5. Ver estado del jugador
+0. Salir del juego
+Elige una opcion:
+1. Pocion de Vida - Restaura 40 puntos de vida.
+0. Cancelar
+Elige una opcion:
+Recoges Pocion de Vida.
+
+Camara del Dragon | Nivel: 3 | Vida: 71/160
+1. Mirar alrededor
+2. Moverse
+3. Recoger un objeto
+4. Ver inventario / usar un objeto
+5. Ver estado del jugador
+0. Salir del juego
+Elige una opcion:
+1. norte -> Sala del Trono
+2. sur -> Cripta Profunda
+0. Cancelar
+Elige una opcion:
+=== Sala del Trono ===
+Un trono de huesos domina la sala. Una figura encapuchada alza la cabeza: es el nigromante que desperto al dragon.
+Enemigos: Morgrath (Nigromante, vida 90/90)
+Objetos en el suelo: ninguno.
+Salidas: sur
+
+--- COMBATE ---
+Heroe (nivel 3): 71/160
+1. Morgrath (Nigromante) vida 90/90
+1. Atacar
+2. Usar un objeto
+Elige una opcion:
+Heroe ataca a Morgrath con 24 de dano.
+Morgrath queda con 66/90 de vida.
+El nigromante Morgrath lanza un rayo oscuro a Heroe (10 de dano).
+Heroe queda con 61/160 de vida.
+
+--- COMBATE ---
+Heroe (nivel 3): 61/160
+1. Morgrath (Nigromante) vida 66/90
+1. Atacar
+2. Usar un objeto
+Elige una opcion:
+Heroe ataca a Morgrath con 24 de dano.
+Morgrath queda con 42/90 de vida.
+El nigromante Morgrath drena la vida de Heroe (10 de dano) y recupera 10 de vida.
+Heroe queda con 51/160 de vida.
+
+--- COMBATE ---
+Heroe (nivel 3): 51/160
+1. Morgrath (Nigromante) vida 52/90
+1. Atacar
+2. Usar un objeto
+Elige una opcion:
+Heroe ataca a Morgrath con 24 de dano.
+Morgrath queda con 28/90 de vida.
+El nigromante Morgrath lanza un rayo oscuro a Heroe (10 de dano).
+Heroe queda con 41/160 de vida.
+
+--- COMBATE ---
+Heroe (nivel 3): 41/160
+1. Morgrath (Nigromante) vida 28/90
+1. Atacar
+2. Usar un objeto
+Elige una opcion:
+Heroe ataca a Morgrath con 24 de dano.
+Morgrath queda con 4/90 de vida.
+El nigromante Morgrath drena la vida de Heroe (10 de dano) y recupera 10 de vida.
+Heroe queda con 31/160 de vida.
+
+--- COMBATE ---
+Heroe (nivel 3): 31/160
+1. Morgrath (Nigromante) vida 14/90
+1. Atacar
+2. Usar un objeto
+Elige una opcion:
+Heroe ataca a Morgrath con 24 de dano.
+Morgrath queda con 0/90 de vida.
+Morgrath ha sido derrotado.
+Has derrotado a todos los enemigos.
+El nigromante se desploma y su magia oscura se disipa. La cripta queda en silencio. Has liberado el valle. VICTORIA

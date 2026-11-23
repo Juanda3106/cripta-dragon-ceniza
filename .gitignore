@@ -1,0 +1,22 @@
+# Carpetas de compilacion (CMake y CLion)
+build/
+cmake-build-*/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# Configuracion local del IDE
+.idea/
+.vs/
+.vscode/
+
+# Binarios y objetos
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.lib
+*.dll
+*.pdb
+*.ilk

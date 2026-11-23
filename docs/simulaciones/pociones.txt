@@ -1,0 +1,111 @@
+=== La Cripta del Dragon de Ceniza ===
+Un nigromante desperto a un dragon que incendio tu aldea. Los dos se ocultan en la Cripta de Ceniza. Tu mision: bajar, vencer al dragon y acabar con el nigromante.
+Como te llamas, aventurero?
+=== Entrada de la Cripta ===
+Una puerta de piedra rota da paso a un vestibulo frio. Antorchas casi apagadas iluminan el camino hacia el norte.
+Enemigos: ninguno.
+Objetos en el suelo: Pocion de Vida
+Salidas: norte
+
+Entrada de la Cripta | Nivel: 1 | Vida: 120/120
+1. Mirar alrededor
+2. Moverse
+3. Recoger un objeto
+4. Ver inventario / usar un objeto
+5. Ver estado del jugador
+0. Salir del juego
+Elige una opcion:
+1. Pocion de Vida - Restaura 40 puntos de vida.
+0. Cancelar
+Elige una opcion:
+Recoges Pocion de Vida.
+
+Entrada de la Cripta | Nivel: 1 | Vida: 120/120
+1. Mirar alrededor
+2. Moverse
+3. Recoger un objeto
+4. Ver inventario / usar un objeto
+5. Ver estado del jugador
+0. Salir del juego
+Elige una opcion:
+1. norte -> Salon de Guardia
+0. Cancelar
+Elige una opcion:
+=== Salon de Guardia ===
+Un salon amplio con bancos volcados. Huele a humo y a hierro oxidado.
+Enemigos: Gruk (Orco, vida 36/36)
+Objetos en el suelo: ninguno.
+Salidas: este, norte, sur
+
+--- COMBATE ---
+Heroe (nivel 1): 120/120
+1. Gruk (Orco) vida 36/36
+1. Atacar
+2. Usar un objeto
+Elige una opcion:
+Heroe ataca a Gruk con 12 de dano.
+Gruk queda con 24/36 de vida.
+El orco Gruk golpea con su maza a Heroe (7 de dano).
+Heroe queda con 113/120 de vida.
+
+--- COMBATE ---
+Heroe (nivel 1): 113/120
+1. Gruk (Orco) vida 24/36
+1. Atacar
+2. Usar un objeto
+Elige una opcion:
+Heroe ataca a Gruk con 12 de dano.
+Gruk queda con 12/36 de vida.
+El orco Gruk entra en furia y golpea a Heroe (10 de dano).
+Heroe queda con 103/120 de vida.
+
+--- COMBATE ---
+Heroe (nivel 1): 103/120
+1. Gruk (Orco) vida 12/36
+1. Atacar
+2. Usar un objeto
+Elige una opcion:
+Heroe ataca a Gruk con 12 de dano.
+Gruk queda con 0/36 de vida.
+Gruk ha sido derrotado.
+Heroe gana 20 puntos de experiencia.
+Has derrotado a todos los enemigos.
+
+Salon de Guardia | Nivel: 1 | Vida: 103/120
+1. Mirar alrededor
+2. Moverse
+3. Recoger un objeto
+4. Ver inventario / usar un objeto
+5. Ver estado del jugador
+0. Salir del juego
+Elige una opcion:
+1. Pocion de Vida - Restaura 40 puntos de vida.
+0. Volver
+Elige una opcion:
+Heroe bebe Pocion de Vida y recupera 17 puntos de vida (vida 120/120).
+
+Salon de Guardia | Nivel: 1 | Vida: 120/120
+1. Mirar alrededor
+2. Moverse
+3. Recoger un objeto
+4. Ver inventario / usar un objeto
+5. Ver estado del jugador
+0. Salir del juego
+Elige una opcion:
+Nombre: Heroe
+Nivel: 1
+Experiencia: 20/50
+Vida: 120/120
+Ataque base: 12
+Bonus de ataque: 0
+Objetos: 0
+
+Salon de Guardia | Nivel: 1 | Vida: 120/120
+1. Mirar alrededor
+2. Moverse
+3. Recoger un objeto
+4. Ver inventario / usar un objeto
+5. Ver estado del jugador
+0. Salir del juego
+Elige una opcion:
+Abandonas la cripta. Hasta pronto.
